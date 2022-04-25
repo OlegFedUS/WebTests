@@ -35,6 +35,5 @@ public class BrowserStackTest {
 
         Assert.assertEquals(errorText, "There have been several failed attempts to sign in from this account. Please wait a while and try again later.");
 
-
     }
 }
